@@ -29,30 +29,29 @@
   width: 100%;
   height: auto;
 }
-
-.Section{
+.section{
 	font-family: Tahoma ;
-	margin: 0 0 35% 0;
+	margin: 0 0  40% 0;
+
 }
 .titre{
 	font-size: 28px;
 	color: darkblue;
 }
 .information1{
-	float: left;
 	width: 20%;
-	padding: 4px;
+	padding: 4px:;
 }
 .information2{
 	padding: 4px;
 	width: 73%;
-	float: right;
 }
 .categorie{
 	font-weight: bold;
 }
-
-
-
+.align{
+		display: flex;
+	align-items: stretch;
+}
 
 
