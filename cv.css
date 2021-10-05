@@ -1,0 +1,55 @@
+.page{
+	width: 780px;
+	margin: auto;
+	font-size: 16px;
+	border: 5px solid; #3388CC;
+	border-radius: 5px ;
+	box-shadow: 2px 4px 3px black;
+	height: 1490px;
+	padding: 1em;
+}
+.entete{
+	margin: 0 0 200px 0;
+}
+.info{
+	float: left;
+	width: auto;
+	height: 150px;
+
+}
+.photo{
+		float: right;
+		width: 150px;
+		height: 150px;
+}
+.img{
+  width: 100%;
+  height: auto;
+}
+
+.Section{
+	font-family: Tahoma ;
+	margin: 0 0 35% 0;
+}
+.titre{
+	font-size: 28px;
+	color: darkblue;
+}
+.information1{
+	float: left;
+	width: 20%;
+	padding: 4px;
+}
+.information2{
+	padding: 4px;
+	width: 73%;
+	float: right;
+}
+.categorie{
+	font-weight: bold;
+}
+
+
+
+
+
