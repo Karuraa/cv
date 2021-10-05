@@ -10,8 +10,11 @@
 }
 #a{
 	font-weight: bold;
-	font-size: 20px;
+	font-size: 24px;
 	text-decoration-line: underline;
+}
+p{
+	font-size: 18px;
 }
 .gras{
 	  font-weight: bold;
