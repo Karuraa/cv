@@ -61,5 +61,10 @@ p{
 		display: flex;
 	align-items: stretch;
 }
-
+ #cv{
+ 	text-decoration: none;
+ 	color: darkblue;
+ 	position: relative;
+ 	left: 85%;
+ }
 
